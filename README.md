@@ -145,7 +145,7 @@ Spring Boot를 사용하여 게시판 기능을 구현한 웹 애플리케이션
 
 ## 🗄 데이터베이스 구조
 <p align="left">
-<img width="389" height="241" alt="DB" src="DB.png" />
+<img width="389" height="241" alt="DB" src="screenshots/DB.png" />
 </p>
 <br/>
 
