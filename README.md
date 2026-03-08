@@ -103,49 +103,49 @@ Spring Boot를 사용하여 게시판 기능을 구현한 웹 애플리케이션
 
 ### 홈 화면
 <p align="left">
-  <img width="665" height="315" alt="image" src="https://github.com/user-attachments/assets/08d26a0f-80d5-4fe3-865f-c456880d37c3" />
+  <img width="665" height="315" alt="image" src="screenshots/home.png" />
 </p>
 
 
 
 ### 로그인 화면
 <p align="left">
- <img width="665" height="315" alt="image" src="https://github.com/user-attachments/assets/b4030a51-565b-43d7-91fa-bef90803d075" />
+ <img width="665" height="315" alt="image" src="screenshots/login.png" />
 </p>
 
 
 
 ### 회원가입 화면
 <p align="left">
- <img width="665" height="315" alt="image" src="https://github.com/user-attachments/assets/e8f06596-4f95-4e0f-8ad0-0d9caac2e126" />
+ <img width="665" height="315" alt="image" src="screenshots/register.png" />
 </p>
 
 
 
 ### 게시글 작성 (관리자)
 <p align="left">
- <img width="665" height="315" alt="image" src="https://github.com/user-attachments/assets/de9bd93f-8923-4ec1-94a3-44c2937b10c3" />
+ <img width="665" height="315" alt="image" src="screenshots/write.png" />
 </p>
 
 
 
 ### 게시글 상세 조회 (일반 회원 / 관리자)
 <p align="left">
-    <img width="475" height="225" alt="image" src="https://github.com/user-attachments/assets/74d2faca-3abd-4bfd-a083-c1b5735907d7" />
-    <img width="475" height="225" alt="image" src="https://github.com/user-attachments/assets/6d756e1d-91f3-45ce-8b0e-c0a0ee39f4ef" />
+    <img width="475" height="225" alt="image" src="screenshots/read.png" />
+    <img width="475" height="225" alt="image" src="screenshots/readManager.png" />
 </p>
 
 
 ### 게시글 수정 (관리자)
 
 <p align="left">
-    <img width="665" height="315" alt="image" src="https://github.com/user-attachments/assets/bd736766-192c-4af5-9190-09d33515f463" />
+    <img width="665" height="315" alt="image" src="screenshots/edit.png" />
 </p>
 <br/>
 
 ## 🗄 데이터베이스 구조
 <p align="left">
-<img width="389" height="241" alt="DB" src="https://github.com/user-attachments/assets/0077ded7-0296-4b6d-a420-237a5b897833" />
+<img width="389" height="241" alt="DB" src="DB.png" />
 </p>
 <br/>
 
